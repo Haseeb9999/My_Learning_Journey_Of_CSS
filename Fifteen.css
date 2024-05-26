@@ -1,0 +1,8 @@
+.box{
+    width: 35%;
+    margin: 7% auto;
+}
+
+.box table{
+    border-collapse: collapse;
+}

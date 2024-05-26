@@ -1,0 +1,24 @@
+body{
+    background-image: url(../Media/App_Development.png);
+    background-size: cover;
+}
+
+.container{
+    width: 50%;
+    height: 450px;
+    margin: 100px auto;
+    border-radius: 1.5rem;
+    border: 20px dotted red;
+    font-size: 110%;
+    background-color: antiquewhite;
+    /* background-clip: border-box; */
+    /* background-clip: padding-box; */
+    padding: 2rem;
+    background-clip: content-box;
+}
+
+.container h1,p{
+    margin: 1rem;
+    float: left;
+    text-shadow: 2px 2px 2px #000;
+}

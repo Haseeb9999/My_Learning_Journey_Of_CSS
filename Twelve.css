@@ -1,0 +1,39 @@
+.container{
+    width: 50%;
+    margin: 15rem auto;
+    padding: 1rem;
+    /* border-width: thin ; */
+    border-width: thick ;
+    /* border-width: medium ; */
+    /* border-width: unset ; */
+    /* border-width: initial ; */
+    /* border-width: inherit ; */
+    
+    /* border-style: dashed; */
+    /* border-style: dotted; */
+    /* border-style: double; */
+    border-style: groove;
+    /* border-style: hidden; */
+    /* border-style: inherit; */
+    /* border-style: initial; */
+    /* border-style: inset; */
+    /* border-style: none; */
+    /* border-style: outset; */
+    /* border-style: ridge; */
+    /* border-style: solid; */
+    /* border-style: unset; */
+    
+    border-color: cyan;
+
+    border-radius: inherit;
+    /* border-radius: initial; */
+    /* border-radius: unset; */
+}
+
+.container h1,p{
+    padding: 0.5rem;
+    border-width: thick ;
+    border-style: groove;
+    border-color: cyan;
+    border-radius: inherit;
+}

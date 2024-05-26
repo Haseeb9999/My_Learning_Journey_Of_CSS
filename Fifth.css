@@ -1,0 +1,13 @@
+/* body{
+    background-color: aqua;
+    background: url(../Media/App_Development.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+body{
+    background-image: url(../Media/App_Development.png), url(../Media/image_1.jpg), url(../Media/pasa.jpeg);
+    background-size: 300px, 300px, 300px;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: 0 0, 0 300px, 0 600px;
+}

@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 1%;
+}
+h1{
+    width: 19%;
+    margin: 0.5%;
+    text-align: center;
+    padding: 0.2rem;
+}
+
+h1:hover{
+    outline-style: solid;
+    outline-color: aqua;
+    outline-width: 3px;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}

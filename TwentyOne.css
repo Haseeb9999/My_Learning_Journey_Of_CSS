@@ -1,0 +1,25 @@
+.box{
+    width: 50%;
+    margin: 7rem auto;
+    /* background-image: radial-gradient(red, blue, green); */
+    /* background-image: radial-gradient(red 40%, blue 30%, green 50%); */
+    /* background-image: radial-gradient(circle, red, blue, green); */
+    /* background-image: radial-gradient(circle at top, red, blue, green); */
+    /* background-image: radial-gradient(circle at right, red, blue, green); */
+    /* background-image: radial-gradient(circle at 0%, red, blue, green); */
+    /* background-image: radial-gradient(circle at 0% 0%, red, blue, green); */
+    /* background-image: radial-gradient(circle at left, red, blue, green); */
+    /* background-image: radial-gradient(circle at bottom, red, blue, green); */
+    /* background-image: radial-gradient(circle at top left, red, blue, green); */
+    /* background-image: radial-gradient(circle at top right, red, blue, green); */
+    /* background-image: radial-gradient(circle at bottom left, red, blue, green); */
+    /* background-image: radial-gradient(circle at bottom right, red, blue, green); */
+    /* background-image: radial-gradient(ellipse at left, blue, transparent); */
+    /* background-image: radial-gradient(blue, transparent); */
+    /* background-image: radial-gradient(circle at left, red, blue, green), radial-gradient(circle at top left, cyan, gray, purple), radial-gradient(circle at bottom right, skyblue, pink, gold); */
+    /* background-image: radial-gradient(closest-side at 30% 30%, red, blue, green); */
+    /* background-image: radial-gradient(farthest-side at 30% 30%, red, blue, green); */
+    /* background-image: radial-gradient(closest-corner at 30% 30%, red, blue, green); */
+    /* background-image: radial-gradient(farthest-side at 30% 30%, red, blue, green); */
+    background-image: repeating-radial-gradient(red, blue 15%, green 10%);
+}

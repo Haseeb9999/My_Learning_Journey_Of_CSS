@@ -1,0 +1,23 @@
+.main{
+    width: 60%;
+    margin: 2rem auto;
+    padding: 0rem 1rem 2rem 1rem;
+    border: 2px solid royalblue;
+}
+
+img{
+    width: 30%;
+}
+
+.fimg{
+    float: left;
+    margin-right: 0.5rem;
+}
+
+.sart{
+    width: 70%;
+    float: left;
+}
+h1{
+    text-align: left;
+}

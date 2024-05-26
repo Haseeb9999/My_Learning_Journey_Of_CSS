@@ -1,0 +1,8 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../Media/App_Development.png), url(../Media/App_Development.png);
+    background-repeat: no-repeat;
+    background-size: 25%, cover;
+    background-position: top center, 0% 0%;
+}

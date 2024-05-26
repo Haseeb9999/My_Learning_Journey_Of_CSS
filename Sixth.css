@@ -1,0 +1,10 @@
+body{
+    background-image: url(../Media/App_Development.png),
+                      url(../Media/App_Development.png),
+                      url(../Media/image_1.jpg),
+                      url(../Media/image_1.jpg),
+                      url(../Media/pasa.jpeg);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: 0% 0%, 25% 0, 50% 0%, 75% 0, 100% 0%;
+}

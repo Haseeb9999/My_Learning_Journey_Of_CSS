@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom right, white,blue 50%);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.box{
+    width: 50%;
+    border: 5px solid green; 
+    margin: 5rem auto;
+    /* background-image: linear-gradient(to right, red, green);
+    background-image: linear-gradient(to bottom, red, green);
+    background-image: linear-gradient(to left, red, green);
+    background-image: linear-gradient(to top, red, green);
+    background-image: linear-gradient(to bottom right, red, green);
+    background-image: linear-gradient(to bottom left, red, green);
+    background-image: linear-gradient(to Top right, red, green);
+    background-image: linear-gradient(to Top left, red, green); */
+    /* background-image: linear-gradient(to Top left, red 60%, green 40%); */
+    background-image: linear-gradient(to right, rgba(255,0,0,1),rgba(0,255,0,0.5));
+}

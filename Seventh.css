@@ -1,0 +1,27 @@
+body{
+    /* background: white; */
+    background-image: url(../Media/App_Development.png);
+    background-size: cover;
+}
+
+.container{
+    width: 50%;
+    height: 450px;
+    margin: 100px auto;
+    border-radius: 1.5rem;
+    font-size: 110%;
+    /* background-color: rgba(0,0,0,.25); */
+    background-image: url(../Media/App_Development.png);
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    border: 5px solid white;
+    /* background-repeat: round; */
+    background-repeat: space;
+}
+
+.container h1,p{
+    margin: 1rem;
+    float: left;
+    text-shadow: 2px 2px 2px #000;
+}

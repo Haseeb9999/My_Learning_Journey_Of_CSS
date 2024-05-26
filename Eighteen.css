@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+article{
+    width: 40%;
+    margin: 5rem auto;
+    padding: 1rem;
+    border: 3px solid gold;
+}

@@ -1,0 +1,42 @@
+body{
+    background-image: url(../Media/App_Development.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-attachment: local; */
+    /* background-attachment: scroll; */
+}
+
+.container{
+    width: 50%;
+    height: 450px;
+    margin: 100px auto;
+    overflow: auto;
+    border-radius: 1.5rem;
+    border: 20px dotted red;
+    font-size: 110%;
+    background-image: url(../Media/App_Development.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+}
+
+.container h1,p{
+    margin: 1rem;
+    float: left;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.container2{
+    width: 50%;
+    height: 450px;
+    margin: 100px auto;
+    border-radius: 1.5rem;
+    font-size: 110%;
+}
+
+.container2 h1,p{
+    margin: 1rem;
+    float: left;
+    text-shadow: 2px 2px 2px #000;
+}

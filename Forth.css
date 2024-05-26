@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(58, 250, 0);
+    background-color: antiquewhite;
+    border: 2px solid gold;
+}
+
+p{
+    color: blue;
+    background-color: blueviolet;
+    border: 2px solid aquamarine;
+}

@@ -1,0 +1,10 @@
+.box{
+    width: 50%;
+    margin: auto;
+    padding: 2rem;
+    color: aquamarine;
+    border-width: 10px;
+    border-style: dashed outset inset double;
+    border-color: aqua aquamarine antiquewhite blueviolet;
+    border-radius: 1.5rem;
+}

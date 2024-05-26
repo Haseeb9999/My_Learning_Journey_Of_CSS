@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.box{
+    width: 40%;
+    padding: 1rem;
+    margin: 5rem auto;
+    /* border: 5px solid gold; */
+}
+
+.box img{
+    width: 97.2%;
+    margin: 2% auto;
+}
+
+h1, article, img{
+    padding: 0.5rem;
+}

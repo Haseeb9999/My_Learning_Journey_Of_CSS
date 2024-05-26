@@ -1,0 +1,25 @@
+.box{
+    width: 35%;
+    margin: 2rem auto;
+    font-size: 7em;
+    padding: 1rem;
+    justify-content: center;
+    text-align: center;
+    background-image: conic-gradient(red, blue, green, red);
+    /* background-image: repeating-conic-gradient(red 0deg, blue 10deg, green 20deg, red 0deg); */
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.box1{
+    width: 35%;
+    margin: 2rem auto;
+    font-size: 7em;
+    padding: 1rem;
+    justify-content: center;
+    text-align: center;
+    /* background-image: conic-gradient(red, blue, green, red); */
+    background-image: repeating-conic-gradient(red 0deg, blue 10deg, green 20deg, red 0deg);
+    -webkit-background-clip: text;
+    color: transparent;
+}

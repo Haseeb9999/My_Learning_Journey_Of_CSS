@@ -1,0 +1,15 @@
+.box{
+    width: 60%;
+}
+
+img{
+    width: 40%;
+    float: left;
+    margin-right: 1rem;
+}
+
+h1{
+    visibility: hidden;
+    /* visibility: visible; */
+    /* visibility: none; */
+}

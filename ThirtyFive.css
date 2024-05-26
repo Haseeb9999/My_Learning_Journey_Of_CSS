@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    padding: 0.5rem;
+    border: 5px solid red;
+}
+.left{
+    padding-right: 10%;
+}
+.center{
+    width: 60%;
+    justify-content: center;
+    text-align: center;
+    /* border: 5px solid red; */
+}
+.alink{
+    color: aqua;
+    text-decoration: none;
+    padding: 0% 5%;
+}

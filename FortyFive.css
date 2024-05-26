@@ -1,0 +1,19 @@
+.box{
+    width: 35%;
+    margin: 5rem auto;
+    text-align: center;
+    border: 3px solid royalblue;
+}
+
+.a:link{
+    color: rgb(183, 255, 0);
+}
+.b:visited{
+    color: chartreuse;
+}
+.c:hover{
+    color: cadetblue;
+}
+.d:active{
+    color: darkred;
+}

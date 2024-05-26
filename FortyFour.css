@@ -1,0 +1,14 @@
+/* Element Selector */
+h1{}
+
+/* Class Selector */
+.class{}
+
+/* id Selector */
+#id{}
+
+/* Unversal Selector */
+*{}
+
+/* Unversal Selector */
+h1, p{}

@@ -1,0 +1,15 @@
+.box{
+    width: 35%;
+    padding: 1rem;
+    margin: 15rem auto;
+    background-color: rgb(53, 255, 3);
+    color: blue;
+    border-width: 1.5rem;
+    border-style: solid;
+    border-color: tomato;
+    border-image-source: url(../Media/App_Development.png);
+    border-image-slice: 100;
+    /* border-image-repeat: round;
+    border-image-outset: 1rem; */
+    border-image-width: 1.5rem;
+}

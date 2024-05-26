@@ -1,0 +1,11 @@
+.box{
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0.5rem 0.5rem 0.5rem 0.25rem gray;
+    background-color: aquamarine;
+}
+
+img{
+    width: 100%;
+}

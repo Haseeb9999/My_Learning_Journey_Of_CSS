@@ -1,0 +1,23 @@
+body{
+    background-image: url(../Media/Haseeb_hacking_world_very_detailed_wallpaper_with_hacker_boy_wh_0d3de268-a226-471f-b32c-5fd67ed84ec8.png);
+    background-size: cover;
+}
+
+.box{
+    width: 25rem;
+    height: 25rem;
+    border: 5px solid red;
+    border-radius: 50%;
+    /* background-image: conic-gradient(red, blue, green, red); */
+    /* background-image: conic-gradient(red 90deg, blue, green, red); */
+    /* background-image: -conic-gradient(at 20% 50%, red 90deg, blue, green, red); */
+    /* background-image: repeating-conic-gradient(red 10deg, blue 20deg, green 30deg, red 10deg); */
+    /* background-image: repeating-conic-gradient(red 0deg, red 10deg, green 10deg, green 20deg); */
+    /* background-image: repeating-conic-gradient(red 0deg, red 90deg, green 90deg, green 180deg); */
+    /* background-image: repeating-conic-gradient(red 0deg, red 90deg, blue 90deg, blue 180deg, green 180deg, green 270deg, yellow 270deg, yellow 360deg); */
+    /* background-image: repeating-conic-gradient(from 25deg, red 0deg, red 90deg, blue 90deg, blue 180deg, green 180deg, green 270deg, yellow 270deg, yellow 360deg);
+    background-size: 20px 20px; */
+    background-image: repeating-conic-gradient(red 0deg, red 90deg, blue 90deg, blue 180deg, green 180deg, green 270deg, yellow 270deg, yellow 360deg);
+    background-size: 20px 20px;
+    border-radius: 0%;
+}

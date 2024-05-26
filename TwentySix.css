@@ -1,0 +1,58 @@
+section{
+    width: 35%;
+    margin: 5rem auto;
+}
+
+.f{
+    background-color: aqua;
+}
+
+.g{
+    background-color: antiquewhite;
+}
+
+p{
+    display: inline;
+    /* display: inline-block; */
+    /* display: flex; */
+    /* display: inline-flex; */
+}
+
+span{
+    background-color: gold;
+    /* display: block; */
+    display: list-item;
+}
+
+.con{
+    border: 12px solid gold;
+    margin: 3rem auto;
+    text-align: center;
+    display: inline-flex;
+}
+
+.a{
+    background-color: red;
+    height: 2rem;
+    padding-top: 10px;
+}
+.b{
+    background-color: blue;
+    height: 2rem;
+    padding-top: 10px;
+}
+.c{
+    background-color: green;
+    height: 2rem;
+    padding-top: 10px;
+}
+.d{
+    background-color: yellow;
+    height: 2rem;
+    padding-top: 10px;
+}
+.e{
+    background-color: purple;
+    height: 2rem;
+    padding-top: 10px;
+}

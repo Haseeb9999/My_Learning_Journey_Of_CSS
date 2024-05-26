@@ -1,0 +1,16 @@
+.box{
+    width: 40%;
+    height: 14rem;
+    overflow: auto;
+    margin: 10rem auto;
+    /* border: 5px solid red; */
+}
+
+img{
+    width: 100%;
+    /* position: static; */
+    /* position: absolute; */
+    /* position: fixed; */
+    /* position: relative; */
+    /* position: sticky; */
+}

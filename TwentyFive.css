@@ -1,0 +1,26 @@
+.main{
+    width: 50%;
+    font-size: 1em;
+    margin: 5rem auto;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 6px rgb(209, 0, 0);
+}
+
+img{
+    width: 25%;
+    float: left;
+    margin-right: 0.5rem;
+}
+
+.con{
+    color: aqua;
+    text-decoration: overline;
+    letter-spacing: 1.5rem;
+    float: right;
+    /* text-align: right; */
+}
+
+a{
+    text-decoration: underline;
+    color: aquamarine;
+}

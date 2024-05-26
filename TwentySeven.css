@@ -1,0 +1,158 @@
+.main{
+    width: 98%;
+    margin: 2rem auto;
+}
+
+div{
+    margin: 1rem;
+    padding: 1rem;
+    width: 20%;
+    height: 7rem;
+    float: left;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.aa{
+    cursor: alias;
+}
+
+.ab{
+    cursor: all-scroll;
+}
+
+.ac{
+    cursor: auto;
+}
+
+.ad{
+    cursor: cell;
+}
+
+.ae{
+    cursor: col-resize;
+}
+
+.af{
+    cursor: context-menu;
+}
+
+.ag{
+    cursor: copy;
+}
+
+.ah{
+    cursor: crosshair;
+}
+
+.ai{
+    cursor: default;
+}
+
+.aj{
+    cursor: e-resize;
+}
+
+.ak{
+    cursor: ew-resize;
+}
+
+.al{
+    cursor: grab;
+}
+
+.am{
+    cursor: grabbing;
+}
+
+.an{
+    cursor: help;
+}
+
+.ao{
+    cursor: move;
+}
+
+.ap{
+    cursor: n-resize;
+}
+
+.aq{
+    cursor: ne-resize;
+}
+
+.ar{
+    cursor: nesw-resize;
+}
+
+.as{
+    cursor: no-drop;
+}
+
+.at{
+    cursor: none;
+}
+
+.au{
+    cursor: not-allowed;
+}
+
+.av{
+    cursor: ns-resize;
+}
+
+.aw{
+    cursor: nw-resize;
+}
+
+.ax{
+    cursor: nwse-resize;
+}
+
+.ay{
+    cursor: pointer;
+}
+
+.az{
+    cursor: progress;
+}
+
+.aaa{
+    cursor: row-resize;
+}
+
+.aab{
+    cursor: s-resize;
+}
+
+.aac{
+    cursor: se-resize;
+}
+
+.aad{
+    cursor: sw-resize;
+}
+
+.aae{
+    cursor: text;
+}
+
+.aaf{
+    cursor: vertical-text;
+}
+
+.aag{
+    cursor: w-resize;
+}
+
+.aah{
+    cursor: wait;
+}
+
+.aai{
+    cursor: zoom-in;
+}
+
+.aaj{
+    cursor: zoom-out;
+}
